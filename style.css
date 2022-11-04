@@ -1,0 +1,28 @@
+/*
+ Theme Name:   Suki child
+ Theme URI:    https://jooma.lenaeldey.dk/
+ Description:  This child theme was built upon the parent theme Suki
+ Author:       Magdalena Eldey ÃžÃ³rsdÃ³ttir
+ Author URI:   https://jooma.lenaeldey.dk/
+ Template:     suki
+ Version:      1.0.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  sukichild
+*/ 
+
+h1 {
+    color: black;
+    font-family: 'Nanum Pen Script', cursive;
+    font-weight: bold;
+}
+
+h2{
+    color: black;
+    font-family: 'Nanum Pen Script', cursive;
+}
+p{
+    color: black;
+    font-family: 'Questrial', sans-serif;
+}
